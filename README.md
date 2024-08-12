@@ -1,9 +1,12 @@
 # Istruzioni su come creare il guinzaglio/corda per Alfie
 ## Necessario
 1- corda spessa circa 10 mm e lunga 4 metri
-2- corda corda e non molto spessa che verra' usato per accorciare/allungare la
+2- corda corta e non molto spessa che verra' usato per accorciare/allungare la
 corda principale
 3- moschettone girevole 360 gradi
+
+![image](imgs/0_necessario.jpg)
+
 
 ## Creare i nodi
 
