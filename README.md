@@ -48,7 +48,7 @@ permettera' di accorciare o allungare la nostra corda su se stessa.
 
 5- Leghiamo il resto della corda piccola al Bowline che abbiamo creato al punto 3,
 il manico della nostra corda. Bisognera legare la corda piccola con se stessa,
-usando il nodo **Double (or Triple) fisherman's band**, facendo passare il loop del manico
+usando il nodo **Double (or Triple) fisherman's bend**, facendo passare il loop del manico
 all'interno.
 
 ![image](imgs/5_double_fishermans_bend.jpg)
