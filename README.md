@@ -26,14 +26,15 @@ in quel punto e quindi meno peso per il cane.
 
 ![image](imgs/1_scaffold_moschettone.jpg)
 
-2- Ora dobbiamo creare un altro **Bowline knot** dall'altra parte della corda.
-Questo loop ci servira' per legarci il nodo scorsoio (slide and grip)
+2- Per il manico utilizziamo il **Scotts locked bowline**, una variante del
+Bowline classico che e' piu' sicuro e blocca la corda in modo che non scorra.
+Ricordasi di lasciare sempre un po' di corda in eccesso per sicurezza.
 
-Dobbiamo tenere un po' di corda in eccesso dal Bowline e creare un altro
-stopper/dafety knot, **Strangle knot**, questa volta pero' lo facciamo dentro al
-bowline dato che abbiamo spazio e ci permette di ingombrare meno.
+Precedentemente utilizzavamo il bowline classico con lo Strangle knot come
+stopper ma con il tempo e il tiraggio del cane, il manico si ristringeva. Questa
+nuova variante dovre evitare questo.
 
-![image](imgs/2_bowline_manico.jpg)
+![image](imgs/2_scotts_locked_bowline.jpg)
 
 3- Con la corda piu' piccola, creiamo il nodo scorsoio (_slide and grip_) semplice
 che si chiama **Prusik knot** (una specie di doppio Cow hitch). Questo nodo ci
