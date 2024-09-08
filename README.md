@@ -1,50 +1,55 @@
-# Istruzioni su come creare il guinzaglio/corda per Alfie
+# Dog leash
+How to create a dog leash that can be shortened at will.
 
-![image](imgs/00_guinzaglio.jpg)
+![image](imgs/00_leash.jpg)
 
-## Necessario
-- corda spessa circa 10 mm e lunga 4 metri
-- corda corta e non molto spessa che verra' usato per accorciare/allungare la
-corda principale
-- moschettone girevole 360 gradi
+## What do you need
+- 4 meter rope of 10 mm diameter. Try to have a light rope, if it is the case go for
+  a smaller diameter
+  best
+- another rope, which can be of a different diameter. This rope will be used to
+  shorte the leash
+- 360 degree swivel carabiner
 
-![image](imgs/0_necessario.jpg)
+![image](imgs/0_required.jpg)
 
+## Build
+1- Create the first knot at the base, we use a **Scaffold knot** that must
+pass inside the carabiner, remember to leave a few centimeters
+of excess rope for safety.
+This knot will tighten to its maximum when pulled and then “weld” into
+position.
 
-## Creare i nodi
+We choose to use this knot instead of a Bowline knot with a safety (stopper), as done
+previously, because with this method we have a smaller footprint of the
+knots since there is no need for the safety, which makes the rope less heavy
+at that point and therefore less weight for the dog.
 
-1- Creare il primo nodo alla base, utilizziamo un **Scaffold knot** che deve
-passare all'interno del moschettone, ricordiamo di lasciare qualche centimetro
-di corda in eccesso per sicurezza.
-Questo nodo si stringera' al massimo una volta tirato e quindi si "saldera'" in
-posizione.
+![image](imgs/1_scaffold_carabiner.jpg)
 
-Scegliamo di usare questo nodo invece di un Bowline knot con sicura (stopper), come fatto
-precedentemente, perche' con questo metodo abbiamo un ingombro inferiore dei
-nodi dato che non c'e' bisogno della sicura, il che rende la corda meno pesante
-in quel punto e quindi meno peso per il cane.
+2- For the handle we use the **Scotts locked bowline**, a variation of the
+classic bowline that is safer and locks the rope so it doesn't run.
+Remember to always leave some excess rope for safety.
 
-![image](imgs/1_scaffold_moschettone.jpg)
+Previously we used the classic bowline with the Strangle knot as a
+stopper but with time and the pulling of the dog, the handle would shrink. This
+new variation should avoid this.
 
-2- Per il manico utilizziamo il **Scotts locked bowline**, una variante del
-Bowline classico che e' piu' sicuro e blocca la corda in modo che non scorra.
-Ricordasi di lasciare sempre un po' di corda in eccesso per sicurezza.
-
-Precedentemente utilizzavamo il bowline classico con lo Strangle knot come
-stopper ma con il tempo e il tiraggio del cane, il manico si ristringeva. Questa
-nuova variante dovre evitare questo.
 
 ![image](imgs/2_scotts_locked_bowline.jpg)
 
-3- Con la corda piu' piccola, creiamo il nodo scorsoio (_slide and grip_) semplice
-che si chiama **Prusik knot** (una specie di doppio Cow hitch). Questo nodo ci
-permettera' di accorciare o allungare la nostra corda su se stessa.
+3- With the smaller rope, we create the simple slip knot (_slide and grip_)
+which is called a **Prusik knot** (a kind of double Cow hitch). This knot will
+will allow us to shorten or lengthen our rope on itself.
 
 ![image](imgs/3_prusik_knot_slide_and_grip.jpg)
 
-4- Leghiamo il resto della corda piccola al Bowline che abbiamo creato al punto 3,
-il manico della nostra corda. Bisognera legare la corda piccola con se stessa,
-usando il nodo **Double (or Triple) fisherman's bend**, facendo passare il loop del manico
-all'interno.
+4- We tie the rest of the small rope to the Bowline we created in step 2,
+the handle of our rope. We will need to tie the small rope with itself,
+using the **Double (or Triple) fisherman's bend** knot, passing the handle loop
+inside.
+
+For the fisherman's bend, more rounds are done and better it is, so we will go
+for a triple fisherman's bend.
 
 ![image](imgs/4_double_fishermans_bend.jpg)
