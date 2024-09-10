@@ -53,3 +53,22 @@ For the fisherman's bend, more rounds are done and better it is, so we will go
 for a triple fisherman's bend.
 
 ![image](imgs/4_double_fishermans_bend.jpg)
+
+
+# Herringbone dog leash
+If you want a more decorative, beatufull leash you have maybe you are looking
+for the `Herringbone leash`, you can find many tutorials online on how to do
+this kind of leash..
+
+Here I will show you some images to make you understand what type of leashes
+are:
+
+![image](imgs/herringbone_leash1.png)
+![image](imgs/herringbone_leash2.jpg)
+![image](imgs/herringbone_leash3.png)
+
+
+Note: Herringbone is a pattern used to assemble the rope, but it is mainly used
+for floor tiling.
+
+Note2: It is possible to do collar to with this method.
