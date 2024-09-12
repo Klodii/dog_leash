@@ -18,7 +18,11 @@ How to create a dog leash that can be shortened at will.
 pass inside the carabiner, remember to leave a few centimeters
 of excess rope for safety.
 This knot will tighten to its maximum when pulled and then “weld” into
-position.
+position.\
+**Note**: With the excess rope you can create a Double overhand stopper knot, this
+will "stick" the excess rope to the main rope making it more beautiful to see;
+also the Double overhand knot is beautiful (This not is not in the image).
+
 
 We choose to use this knot instead of a Bowline knot with a safety (stopper), as done
 previously, because with this method we have a smaller footprint of the
