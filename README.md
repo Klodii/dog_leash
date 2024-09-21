@@ -60,21 +60,11 @@ for a triple fisherman's bend.
 
 
 # Herringbone dog leash
-If you want a more decorative, beatuful leash you have maybe you are looking
-for the `Herringbone leash`, you can find many tutorials online on how to do
-this kind of leash..
-
-Here I will show you some images to make you understand what type of leashes
-are:
+`Herringbone leash` are leashes created through the interweaving of ropes and
+are more decorative than the one described above.
 
 <div>
 <img src="imgs/herringbone_leash1.png" alt="herringbone_leash1" width="20%"/>
 <img src="imgs/herringbone_leash2.jpg" alt="herringbone_leash2" width="30%"/>
 <img src="imgs/herringbone_leash3.png" alt="herringbone_leash3" width="40%"/>
 </div>
-
-
-Note: Herringbone is a pattern used to assemble the rope, but it is mainly used
-for floor tiling.
-
-Note2: It is possible to do collar to with this method.
