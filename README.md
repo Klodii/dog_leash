@@ -43,8 +43,10 @@ new variation should avoid this.
 <img src="imgs/2_scotts_locked_bowline.jpg" alt="scotts_locked_bowline" width="50%"/>
 
 3- With the smaller rope, we create the simple slip knot (_slide and grip_)
-which is called a **Prusik knot** (a kind of double Cow hitch). This knot will
-allow us to shorten or lengthen our rope on itself.
+which is called a **Prusik knot** (a kind of triple Cow hitch). This knot will
+allow us to shorten or lengthen our rope on itself. It is suggested to do at
+least three turns around the main rope (in the image we did only two), do more
+turns if more grip is needed.
 
 <img src="imgs/3_prusik_knot_slide_and_grip.jpg" alt="prusik_knot" width="50%"/>
 
