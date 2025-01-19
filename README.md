@@ -6,11 +6,9 @@ How to create a dog leash that can be shortened at will.
 ## What do you need
 <img src="imgs/0_required.jpg" alt="requirements" width="50%"/>
 
-- 4 meter rope of 10 mm diameter. Try to have a light rope, if it is the case go for
-  a smaller diameter
-  best
-- another rope, which can be of a different diameter. This rope will be used to
-  shorter the leash
+- 4 meter rope of 6 mm diameter.
+- another rope, which can be of a different diameter, like 4 mm. This rope will
+  be used to shorter the leash.
 - 360 degree swivel carabiner
 
 
