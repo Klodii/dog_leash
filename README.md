@@ -23,9 +23,8 @@ also the Double overhand knot is beautiful.
 
 
 We choose to use this knot instead of a Bowline knot with a safety (stopper)
-because with this method we have a smaller footprint of the knots since there is
-no need for the safety, which makes the rope less heavy at that point and
-therefore less weight for the dog.
+because with this method we have a smaller footprint of the knots, which makes
+the rope less heavy at that point and therefore less weight for the dog.
 
 <img src="imgs/1_scaffold_carabiner.jpg" alt="scaffold_carabiner" width="50%"/>
 
@@ -54,7 +53,7 @@ inside.
 For the fisherman's bend, more rounds are done and better it is, so we will go
 for a triple fisherman's bend.
 
-<img src="imgs/4_double_fishermans_bend.jpg" alt="triple_fisherman_bend" width="50%"/>
+<img src="imgs/4_triple_fishermans_bend.jpg" alt="triple_fisherman_bend" width="50%"/>
 
 
 # Herringbone dog leash
