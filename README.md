@@ -7,7 +7,7 @@ How to create a dog leash that can be shortened at will.
 <img src="imgs/0_required.jpg" alt="requirements" width="50%"/>
 
 - 4 meter rope of 6 mm diameter
-- 20 cm rope of 4 mm diameter, this rope will be used to shoreter the leash.
+- 60 cm rope of 4 mm diameter, this rope will be used to shoreter the leash.
 - 360 degree swivel carabiner
 
 
