@@ -73,10 +73,10 @@ As always, leave some extra rope at the end for safety.
 
 We recomend these following lengths:
 - **Before tightening the simple Bowline**:
-    - **13 cm** loop length
-      <img src="imgs/2_bowline_loop_length_before_tight.jpg" alt="bowline_length_before_tight" width="50%"/>
-    - **18 cm** of excess rope
-      <img src="imgs/2_bowline_excess_length_before_tight.jpg" alt="bowline_excess_length_before_tight" width="50%"/>
+    - **13 cm** loop length\
+      <img src="imgs/2_bowline_loop_length_before_tight.jpg" alt="bowline_length_before_tight" width="30%"/>
+    - **18 cm** of excess rope\
+      <img src="imgs/2_bowline_excess_length_before_tight.jpg" alt="bowline_excess_length_before_tight" width="30%"/>
 
 - **After completing the Scotts variation and tightening the knot**:
     - **15 cm** final loop length
